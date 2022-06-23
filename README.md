@@ -1,4 +1,4 @@
-# schools.github.io
+# schools
 
 ## Heading 2 
 
